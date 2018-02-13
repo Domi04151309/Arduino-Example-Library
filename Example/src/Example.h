@@ -11,7 +11,7 @@ class Example
 	Example(int y);
 	void exampleFunction();
  private:
-	//Private things
+	int _y;
 };
 
 #endif

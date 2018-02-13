@@ -7,7 +7,7 @@
 
 Example::Example(int y)
 { 
-  //Do something
+  _y = y;
 }
 
 void Example::exampleFunction()

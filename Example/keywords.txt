@@ -1,0 +1,2 @@
+Example	KEYWORD1
+exampleFunction	KEYWORD2
